@@ -60,10 +60,7 @@ Anachi features a powerful package system that allows extending terminal functio
 ### Available Packages
 
 - aneofetch: System information display
-- anachi-filemanager: Dual-pane file manager
 - anachi-desktop: Graphical desktop environment
-- anachi-chat: Global terminal chat
-- anachi-lang: Scripting language for automation
 
 ### Creating Packages
 
